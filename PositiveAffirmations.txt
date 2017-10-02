@@ -1,6 +1,6 @@
 "No one can make you feel inferior without your consent." @Eleanor Roosevelt
-"She believed she could, so she did." @R.S. Grey
-"Do not give your past the power to define your future."
+"She believed she could, so she did." @R.S. Grey $w
+"Do not give your past the power to define your future." 
 "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel." @Maya Angelou
 "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope." @Maya Angelou
 "You may not control all the events that happen to you, but you can decide not to be reduced by them." @Maya Angelou
@@ -54,10 +54,41 @@
 "It's not the size of the dog in the fight; it's the size of the fight in the dog." @Mark Twain
 "Nothing is impossible, the word itself says 'I'm possible!'" @Audrey Hepburn
 "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." @Thomas Edison
-
-
+"When you read the end of your rope, tie a knot in it and hang on." @Franklin D. Roosevelt
+"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward." @Amelia Earhart
+"Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak." @Thomas Carlyle
+"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." @Samuel Beckett
+"Not all those who wander are lost." @J.R.R. Tolkien
+"Life is 10% what happens to you and 90% how you react to it." @Charles R. Swindoll
+"The best and most beautiful things in the world cannot be seen or even touched- they must be felt with the heart." @Helen Keller
+"Never bend your head. Always hold it high. Look the world straight in the eye." @Helen Keller
+"Self-pity is our worst enemy and if we yield to it, we can never do anything wise in this world." @Helen Keller
+"You've gotta dance like there's nobody watching. Love like you'll never be hurt. Sing like there's nobody listening. And live like it's heaven on earth." @William W. Purkey
+"A friend is someone who knows all about you and still loves you." @Elbert Hubbard $fr
+"It is better to be hated for what you are than to be loved for what you are not." @André Gide 
+"Love is that condition in which the happiness of another person is essential to your own." @Robert A. Heinlein
+"You don't love someone because they're perfect, you love them in spite of the fact that they're not." @Jodi Picoult 
+"'Tis better to have loved and lost than never to have loved at all." @Alfred Tennyson 
+"Life is about making an impact, not making an income" @Kevin Kruse 
+"Strive not to be a success, but rather to be of value." @Albert Einstein
+"Life is what happens to you while you're busy making other plans." @John Lennon
+"An unexamined life is not worth living." @Socrates
+"You can never cross the ocean until you have the courage to lose sight of the shore." @Christopher Columbus
+"The best revenge is massive success." @Frank Sinatra
+"There is only one way to avoid criticism: do nothing, say nothing, and be nothing." @Aristotle
+"The only person you are destined to become is the person you decide to be." @Ralph Waldo Emerson $m
+"Go confidently in the direction of your dreams.  Live the life you have imagined." @Henry David Thoreau $m
+"You become what you believe." @Oprah Winfrey 
+"I would rather die of passion than of boredom." @Vincent van Gogh
+"You can't use up creativity. The more you use, the more you have." @Maya Angelou
+"Do what you can, where you are, with what you have." @Teddy Roosevelt
+"Dream big and dare to fail." @Norman Vaughan
+"
 
 Funny
 "Wine is constant proof that God loves us and loves to see us happy." @Benjamin Franklin $f
-"Carpe per diem -seize the check" @Robin Williams
-"Always forgive your enemies; nothing annoys them so much." @Oscar Wilde
+"Carpe per diem -seize the check" @Robin Williams $f
+"Always forgive your enemies; nothing annoys them so much." @Oscar Wilde $f
+"It's always the worst when you're with a group of friends and you don't get any food" @Sophie Reeves $f
+"Eighty percent of success is showing up." @Woody Allen $f
+"People often say that motivation doesn't last. Well, neither does bathing. That's why we recommend it daily." @Zig Ziglar $f
